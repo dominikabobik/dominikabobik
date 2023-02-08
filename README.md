@@ -1,12 +1,15 @@
-### Hi there 👋
+### <div align="center" >Hey there 👋 </div>
+### <div align="center" >I'm a software engineer from Wrocław, Poland 🇵🇱</div>
 
-I'm a software enginner from Wroclaw, Poland 🇵🇱
-
+<!-- <div align="center">
+💻 Microsoft
+🎓 Michigan Technological University
+📫 Reach me at: dominikabobik@gmail.com
+</div> -->
 <img src="https://komarev.com/ghpvc/?username=DomiNika-12&style=flat&color=blue" alt=""/>
 
-![Domi's GitHub stats](https://github-readme-stats.vercel.app/api?username=DomiNika-12&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DomiNika-12&hide=cmake)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ![Domi's GitHub stats](https://github-readme-stats.vercel.app/api?username=DomiNika-12&show_icons=true&theme=radical) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DomiNika-12&hide=cmake,makefile)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
