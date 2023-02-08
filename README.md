@@ -6,7 +6,7 @@ I'm a software enginner from Wroclaw, Poland 🇵🇱
 
 ![Domi's GitHub stats](https://github-readme-stats.vercel.app/api?username=DomiNika-12&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DomiNika-12)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DomiNika-12&hide=python,xslt)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
