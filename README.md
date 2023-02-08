@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://komarev.com/ghpvc/?username=DomiNika-12&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=DomiNika-12&style=flat&color=blue" alt=""/>
 
 <!--
 **DomiNika-12/DomiNika-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
