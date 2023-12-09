@@ -10,7 +10,7 @@
 
 </div>
 
-### <div align="center" > :hammer_and_wrench: Languages and Tools : </div>
+### <div align="center" > Languages and Tools : </div>
 
 <div align="center" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40" height="40" />&nbsp;
