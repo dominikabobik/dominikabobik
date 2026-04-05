@@ -1,5 +1,5 @@
 ### <div align="center" >Hey there 👋 </div>
-### <div align="center" >I'm a software engineer from Wrocław, Poland 🇵🇱</div>
+### <div align="center" >I'm a software engineer from Wrocław, Poland</div>
 
 <div align="center" >
 
